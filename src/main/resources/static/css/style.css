@@ -1,0 +1,24 @@
+@charset "UTF-8";
+#wrap { 
+	width: 1200px;
+	height: 800px; 
+}
+header {
+	height: 70px;
+	background: #bbbbbb;
+}
+.content {
+	height: 600px;
+}
+.login-box {
+	width: 500px;
+	height: 400px;
+}
+.signup-box {
+	width: 500px;
+	height: 600px;
+}
+footer {
+	height: 50px;
+	background: #bbbbbb;
+}
