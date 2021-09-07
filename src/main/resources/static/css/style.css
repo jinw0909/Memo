@@ -22,3 +22,6 @@ footer {
 	height: 50px;
 	background: #bbbbbb;
 }
+img {
+	max-width: 100%;
+}
