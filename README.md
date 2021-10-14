@@ -18,19 +18,24 @@ https://docs.google.com/spreadsheets/d/1N8c0dV11qkEa6H-wfBxHvT_xwRToBbEzZpVvyvIA
 * 댓글
 * 좋아요
 
+
 DEMO
 -----
-* 로그인화면
+* 로그인 화면  
 
-![login](https://user-images.githubusercontent.com/83801879/132307309-fb5d15a8-3aed-481e-ac28-5d92942135a4.png)
+![memo-create](https://user-images.githubusercontent.com/83801879/137288284-6813c344-b236-4e78-836e-370a4cf01cd2.png)
 
-* 회원가입화면
+* 글 리스트 화면  
 
-![join](https://user-images.githubusercontent.com/83801879/132307395-95d8b677-ecd8-46b3-8459-8ba2823af116.png)
+![memo-list](https://user-images.githubusercontent.com/83801879/137288359-82e51e6b-6c25-468f-b682-210b9defd574.png)
 
-* 타임라인 View
+* 글 작성 화면  
 
-![timeline](https://user-images.githubusercontent.com/83801879/132307432-72dfc4c2-93c5-42ca-8101-0fa4d8b64dde.png)
+![memo_login](https://user-images.githubusercontent.com/83801879/137288073-a8f77416-ffdb-406d-8682-dbe5c5cbcafe.png)
+
+* 글 수정 화면  
+
+![memo-adjust](https://user-images.githubusercontent.com/83801879/137288154-e71a7d3b-da24-41cb-9769-9e6736622add.png)
 
 사용한 라이브러리 && 라이센스
 -----------------------
